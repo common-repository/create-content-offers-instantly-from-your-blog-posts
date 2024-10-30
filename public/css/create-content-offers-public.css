@@ -1,0 +1,113 @@
+/**
+ * All of the CSS for your public-facing functionality should be
+ * included in this file.
+ */
+
+.cco_offer,
+.cco_emailform {
+	padding:1em;
+	border: solid 0.5em #ddd;
+
+	/*border-radius*/
+	-webkit-border-radius:0.4em;
+	   -moz-border-radius:0.4em;
+	        border-radius:0.4em;
+}
+
+.cco_emailform {
+	width: 100%;
+	text-align:center;
+}
+
+.cco_emailform .cco_optin {
+	margin: auto;
+	width: 50%;
+	min-width: 320px;
+	text-align:center;
+}
+
+.cco_emailform .cco_optin input {
+	width:100%;
+	margin-top:1em;
+}
+
+.cco_emailform .cco_optin {
+ 	display:none;
+}
+#show_content_offer_cco {
+	position:fixed;
+	top:0;
+}
+
+#show_content_offer_cco:target ~ .cco_optin {
+	display:block;
+}
+#show_content_offer_cco:target ~ a {
+	display:none;
+}
+
+/*
+* checkbox styling
+* @source 
+*/
+
+.cco_offer p {
+	position:relative;
+}
+
+.cco_offer input[type="checkbox"] {
+	display: none;
+}
+
+.cco_offer .cco_label:before {
+	content:'';
+	position:relative;
+	top:0.15em;
+	display:block;
+	height:1.3em;
+	width:1.3em;
+	float:left;
+	cursor:pointer;
+	margin-right: 0.5em;
+	/*box-shadow*/
+	-webkit-box-shadow:inset 0 0 0 0.2em #ddd;
+	   -moz-box-shadow:inset 0 0 0 0.2em #ddd;
+	        box-shadow:inset 0 0 0 0.2em #ddd;
+	/*border-radius*/
+	-webkit-border-radius:0.2em;
+	   -moz-border-radius:0.2em;
+	        border-radius:0.2em;
+}
+
+.cco_offer label {
+	cursor:pointer;
+	margin-left:0.25em;
+}
+
+.cco_offer input[type="checkbox"] ~ .cco_label {
+	font-weight: 600;
+}
+
+.cco_offer input[type="checkbox"]:checked ~ .cco_label:before {
+	-webkit-box-shadow:inset 0 0 0 0.2em limegreen;
+	   -moz-box-shadow:inset 0 0 0 0.2em limegreen;
+	        box-shadow:inset 0 0 0 0.2em limegreen;
+}
+
+.cco_offer input[type="checkbox"]:checked ~ .cco_label {
+	font-weight: inherit;
+}
+
+.cco_offer input[type="checkbox"]:checked ~ .cco_checkmark:before {
+	font-family: 'dashicons';
+	content: "\f147";
+	color: limegreen;
+	z-index: 999;
+	font-size: 2.5em;
+	position: absolute;
+	top: -0.46em;
+	left: -0.18em;
+}
+
+
+

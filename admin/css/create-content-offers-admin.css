@@ -1,0 +1,47 @@
+/**
+ * All of the CSS for your admin-specific functionality should be
+ * included in this file.
+ */
+
+ /*for admin area*/
+.cco_post_options_form > div {
+ 	padding-top:1em;
+}
+
+.cco_post_options_form > div > label.textfield {
+ 	display:block;
+}
+ 
+.content_offer_head {
+	margin-top:1em;
+}
+
+.cco_menu_options_form .content_offer_head {
+	margin-top:2em;
+}
+
+#cco_page_options input[type="text"],
+#cco_page_options textarea,
+.cco_menu_options_form input[type="text"],
+.cco_menu_options_form textarea {
+	width: 30em;
+	max-width: 100%;
+}
+
+#cco_page_options textarea,
+.cco_menu_options_form textarea {
+	height: 6em;
+}
+
+.cco_mailchimp label {
+	display:block;
+}
+
+.cco_mailchimp a {
+	display:block;
+	font-size:90%;
+}
+
+.cco_mailchimp input {
+	margin-bottom:1em;
+}

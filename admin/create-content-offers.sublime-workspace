@@ -1,0 +1,483 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"add_menu",
+				"add_menu_page\tWP Function"
+			],
+			[
+				"JSON",
+				"json_encode"
+			],
+			[
+				"is_a",
+				"is_array"
+			],
+			[
+				"int",
+				"intval"
+			],
+			[
+				"js",
+				"json_encode"
+			],
+			[
+				"get",
+				"getCookie"
+			],
+			[
+				"ddd",
+				"ddd"
+			],
+			[
+				"in",
+				"inline-block"
+			],
+			[
+				"sanitize",
+				"sanitize_textarea_field\tWP Function"
+			],
+			[
+				"sani",
+				"sanitize_email\tWP Filter Name"
+			],
+			[
+				"get_the_t",
+				"get_the_title\tWP Function"
+			],
+			[
+				"wp_referer",
+				"wp_get_referer\tWP Function"
+			],
+			[
+				"saniti",
+				"sanitize_textarea_field\tWP Function"
+			],
+			[
+				"cco",
+				"cco_header_type"
+			],
+			[
+				"metabox",
+				"add_meta_boxes\tWP Action Name"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"total",
+				"total_weight"
+			],
+			[
+				"packa",
+				"package_size"
+			],
+			[
+				"pac",
+				"package_size"
+			],
+			[
+				"bill",
+				"billing_email"
+			],
+			[
+				"str_re",
+				"str_replace"
+			],
+			[
+				"st",
+				"style\tTag"
+			],
+			[
+				"op",
+				"option\tTag"
+			],
+			[
+				"di",
+				"div\tTag"
+			],
+			[
+				"time",
+				"timestamp"
+			],
+			[
+				"current",
+				"current_time\tWP Function"
+			],
+			[
+				"santi",
+				"sanitize_text_field\tWP Function"
+			],
+			[
+				"_p",
+				"_POST"
+			],
+			[
+				"san",
+				"sanitize_option\tWP Function"
+			],
+			[
+				"h",
+				"h2\tTag"
+			],
+			[
+				"t",
+				"td\tTag"
+			],
+			[
+				"for",
+				"form-table"
+			],
+			[
+				"user_id",
+				"user_id"
+			],
+			[
+				"sales",
+				"sales_category"
+			],
+			[
+				"get_user_",
+				"get_user_meta\tWP Function"
+			],
+			[
+				"marg",
+				"margin-left"
+			],
+			[
+				"ne",
+				"new_charges"
+			],
+			[
+				"get_user",
+				"get_user_meta\tWP Function"
+			],
+			[
+				"padd",
+				"padding-bottom"
+			],
+			[
+				"tab",
+				"table-cell"
+			],
+			[
+				"dis",
+				"display"
+			],
+			[
+				"font-",
+				"font-weight"
+			],
+			[
+				"order",
+				"order_stats"
+			],
+			[
+				"this_",
+				"this_week"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/Users/aryeh/Dev/glennsantos.org/wp-content/plugins/create-content-offers/admin/class-create-content-offers-admin.php",
+			"settings":
+			{
+				"buffer_size": 10107,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 119.0,
+		"last_filter": "install",
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Remove Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"isntall ",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 444.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/aryeh/Dev/glennsantos.org/wp-content/plugins/create-content-offers",
+		"/Users/aryeh/Dev/glennsantos.org/wp-content/plugins/create-content-offers/admin",
+		"/Users/aryeh/Dev/glennsantos.org/wp-content/plugins/create-content-offers/public"
+	],
+	"file_history":
+	[
+		"/Users/aryeh/Dev/glennsantos.org/wp-content/plugins/create-content-offers/public/class-create-content-offers-public.php",
+		"/private/var/folders/wy/nlgt1jkj71lchkb9hck45_080000gp/T/6f521be6-efeb-4ca0-b56e-4b858ab1282b/var/www/glennsantos.org/wp-content/themes/glennsantos.org/header.php",
+		"/private/var/folders/wy/nlgt1jkj71lchkb9hck45_080000gp/T/6f521be6-efeb-4ca0-b56e-4b858ab1282b/var/www/glennsantos.org/wp-content/themes/glennsantos.org/functions.php",
+		"/Users/aryeh/Dev/glennsantos.org/wp-content/plugins/create-content-offers/create-content-offers.php",
+		"/Users/aryeh/Dev/glennsantos.org/wp-content/plugins/create-content-offers/admin/class-create-content-offers-admin.php",
+		"/Users/aryeh/Dev/glennsantos.org/wp-content/plugins/create-content-offers/public/partials/create-content-offers-public-display.php",
+		"/Users/aryeh/Dev/glennsantos.org/wp-content/plugins/create-content-offers/admin/css/create-content-offers-admin.css",
+		"/Users/aryeh/Dev/glennsantos.org/wp-content/plugins/create-content-offers/admin/js/create-content-offers-admin.js",
+		"/Users/aryeh/Dev/glennsantos.org/wp-content/plugins/create-content-offers/public/css/create-content-offers-public.css",
+		"/Users/aryeh/Dev/glennsantos.org/wp-content/plugins/create-content-offers/public/js/create-content-offers-public.js",
+		"/private/var/folders/wy/nlgt1jkj71lchkb9hck45_080000gp/T/83eb2f9f-0850-4f52-aaaf-3e45f6a4dddb/var/www/wp-content/themes/199Jobs_Prod/job.php",
+		"/private/var/folders/wy/nlgt1jkj71lchkb9hck45_080000gp/T/83eb2f9f-0850-4f52-aaaf-3e45f6a4dddb/var/www/wp-content/themes/199Jobs_Prod/functions.php",
+		"/private/var/folders/wy/nlgt1jkj71lchkb9hck45_080000gp/T/83eb2f9f-0850-4f52-aaaf-3e45f6a4dddb/var/www/wp-content/themes/199Jobs_Prod/lib/admin_menu.php",
+		"/Users/aryeh/Dev/demo/wp-content/plugins/checklist-in-post/css/checklist_in_post_frontend.css",
+		"/Users/aryeh/Dev/demo/wp-content/plugins/checklist-in-post/checklist_in_post_frontend.js",
+		"/Users/aryeh/Dev/glennsantos.org/wp-config.php",
+		"/Users/aryeh/Dev/199jobs/wp-content/themes/199Jobs_Prod/functions.php",
+		"/Users/aryeh/Dev/glennsantos.org/wp-content/themes/glennsantos.org/functions.php",
+		"/Users/aryeh/Dev/demo/wp-content/plugins/checklist-in-post/checklist_in_post.php",
+		"/Users/aryeh/Dev/glennsantos.org/wp-content/plugins/create-content-offers/includes/class-create-content-offers.php",
+		"/Users/aryeh/Dev/glennsantos.org/wp-content/plugins/create-content-offers/includes/class-create-content-offers-loader.php",
+		"/Users/aryeh/Dev/glennsantos.org/wp-content/plugins/create-content-offers/includes/class-create-content-offers-activator.php",
+		"/Users/aryeh/Dev/glennsantos.org/wp-content/plugins/create-content-offers/admin/partials/create-content-offers-admin-display.php",
+		"/Users/aryeh/Dev/glennsantos.org/wp-content/plugins/create-content-offers/includes/class-create-content-offers-i18n.php",
+		"/Users/aryeh/Dev/glennsantos.org/wp-content/plugins/create-content-offers/includes/class-create-content-offers-deactivator.php",
+		"/Users/aryeh/Dev/glennsantos.org/wp-content/plugins/create-content-offers/index.php",
+		"/Users/aryeh/Dev/glennsantos.org/wp-content/plugins/create-content-offers/uninstall.php",
+		"/Users/aryeh/Dev/glennsantos.org/wp-content/plugins/create-content-offers/README.txt",
+		"/Users/aryeh/Dev/glennsantos.org/wp-content/plugins/checklist-content-offer/includes/class-checklist-content-offer.php",
+		"/Users/aryeh/Dev/glennsantos.org/wp-content/plugins/checklist-content-offer/includes/class-checklist-content-offer-loader.php",
+		"/Users/aryeh/Dev/glennsantos.org/wp-content/plugins/checklist-content-offer/includes/class-checklist-content-offer-i18n.php",
+		"/Users/aryeh/Dev/glennsantos.org/wp-content/plugins/checklist-content-offer/admin/class-checklist-content-offer-admin.php",
+		"/Users/aryeh/Dev/glennsantos.org/wp-content/plugins/checklist-content-offer/public/css/checklist-content-offer-public.css",
+		"/Users/aryeh/Dev/glennsantos.org/wp-content/plugins/checklist-content-offer/uninstall.php",
+		"/Users/aryeh/Dev/glennsantos.org/wp-content/plugins/checklist-content-offer/checklist-content-offer.php",
+		"/Users/aryeh/Dev/glennsantos.org/wp-content/plugins/checklist-content-offer/public/partials/checklist-content-offer-public-display.php",
+		"/Users/aryeh/Dev/glennsantos.org/wp-content/plugins/checklist-content-offer/public/class-checklist-content-offer-public.php",
+		"/Users/aryeh/Dev/glennsantos.org/wp-content/plugins/checklist-content-offer/admin/partials/checklist-content-offer-admin-display.php",
+		"/Users/aryeh/Dev/glennsantos.org/wp-content/plugins/checklist-content-offer/includes/class-checklist-content-offer-activator.php",
+		"/Users/aryeh/Dev/glennsantos.org/wp-content/plugins/checklist-content-offer/includes/class-checklist-content-offer-deactivator.php",
+		"/Users/aryeh/Dev/199jobs/wp-content/themes/199Jobs_Prod/lib/login_register/login.php",
+		"/Users/aryeh/Dev/demo/wp-content/plugins/checklist-in-post/admin/options.php",
+		"/Users/aryeh/Dev/happydeal/wp-config.php",
+		"/Users/aryeh/Dev/demo/wp-content/plugins/mail-subscribe-list/index.php",
+		"/Users/aryeh/Dev/demo/wp-content/plugins/mail-subscribe-list/sml.php",
+		"/private/var/folders/wy/nlgt1jkj71lchkb9hck45_080000gp/T/78c92301-d6b6-4234-a542-370beb41f1ee/var/www/html/happydeal/wp-config.php",
+		"/private/var/folders/wy/nlgt1jkj71lchkb9hck45_080000gp/T/78c92301-d6b6-4234-a542-370beb41f1ee/var/www/html/happydeal/wp-content/plugins/wc-vendors/hdgs_functions.php",
+		"/private/var/folders/wy/nlgt1jkj71lchkb9hck45_080000gp/T/83eb2f9f-0850-4f52-aaaf-3e45f6a4dddb/var/www/wp-content/themes/199Jobs_Prod/lib/edit_job.php",
+		"/private/var/folders/wy/nlgt1jkj71lchkb9hck45_080000gp/T/83eb2f9f-0850-4f52-aaaf-3e45f6a4dddb/var/www/wp-content/themes/199Jobs_Prod/lib/edit-job-functions.php",
+		"/Users/aryeh/Library/Application Support/Sublime Text 3/Packages/User/sftp_servers/glennsantos.org",
+		"/Users/aryeh/Dev/happydeal/wp-content/plugins/wc-vendors/hdgs_functions.php",
+		"/Users/aryeh/Dev/happydeal/wp-content/plugins/wc-vendors/hdgs_merchant_orders.php",
+		"/Users/aryeh/Dev/happydeal/wp-content/plugins/wc-vendors/classes/admin/class-vendor-admin-dashboard.php",
+		"/Users/aryeh/Dev/happydeal/wp-content/plugins/wc-vendors/hdgs_rate_maintainer.php",
+		"/Users/aryeh/Dev/happydeal/wp-content/plugins/wc-vendors/hdgs_merchant_profile.php",
+		"/Users/aryeh/Dev/happydeal/wp-content/plugins/wc-vendors/hdgs_product_features.php",
+		"/Users/aryeh/Dev/happydeal/wp-content/plugins/wc-vendors/hdgs_merchant_dashboard.php",
+		"/Users/aryeh/Dev/happydeal/wp-content/plugins/wc-vendors/hdgs_merchant_order_list.php",
+		"/Users/aryeh/Dev/happydeal/wp-content/plugins/wc-vendors/classes/class-queries.php",
+		"/Users/aryeh/Dev/happydeal/wp-content/plugins/wc-vendors/hdgs_merchant_list.php",
+		"/Users/aryeh/Dev/happydeal/wp-content/plugins/wc-vendors/class-wc-vendors.php",
+		"/Users/aryeh/Dev/happydeal/wp-content/plugins/wc-vendors/class-hdgs-product-csv-exporter.php",
+		"/Users/aryeh/Dev/happydeal/wp-content/plugins/miniorange-2-factor-authentication/miniorange_2_factor_common_login.php",
+		"/Users/aryeh/Dev/happydeal/wp-content/plugins/miniorange-2-factor-authentication/miniorange_2_factor_configuration.php",
+		"/Users/aryeh/Dev/happydeal/wp-content/plugins/miniorange-2-factor-authentication/miniorange_2_factor_settings.php",
+		"/Users/aryeh/Dev/happydeal/wp-content/plugins/miniorange-2-factor-authentication/class-miniorange-2-factor-login.php",
+		"/Users/aryeh/Dev/happydeal/wp-content/plugins/wc-vendors/hdgs_user_list.php",
+		"/Users/aryeh/Dev/happydeal/wp-content/themes/happydeals/functions.php",
+		"/Users/aryeh/.Trash/hdgs_functions.php",
+		"/Users/aryeh/Dev/happydeal/wp-content/plugins/wc-vendors/Field_Date.js",
+		"/Users/aryeh/Dev/happydeal/wp-content/plugins/wc-vendors/profile_features.php",
+		"/Users/aryeh/Dev/happydeal/wp-content/plugins/wc-vendors/classes/admin/class-admin-users.php",
+		"/Users/aryeh/Dev/happydeal/wp-content/plugins/wc-vendors/classes/class-install.php",
+		"/Users/aryeh/Library/Application Support/Sublime Text 3/Packages/User/glenn.yaml",
+		"/Users/aryeh/Library/Application Support/Sublime Text 3/Packages/User/Default (OSX).sublime-keymap"
+	],
+	"find":
+	{
+		"height": 44.0
+	},
+	"find_in_files":
+	{
+		"height": 111.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/Users/aryeh/Dev/glennsantos.org/wp-content/plugins/create-content-offers/admin/class-create-content-offers-admin.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 10107,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								5105,
+								5105
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 3354.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 30.0
+	},
+	"input":
+	{
+		"height": 43.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.sftp":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "create-content-offers.sublime-project",
+	"replace":
+	{
+		"height": 56.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 676.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 312.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
